@@ -8,7 +8,7 @@ t1, t2, t3 = 1, 2, 1
 ###FGM
 
 #volume fraction index
-n = 0
+n = 2
 
 
 #Ceramic-Aluminum

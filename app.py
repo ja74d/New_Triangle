@@ -24,7 +24,7 @@ sys.path.append(filepath)
 from Sandwich_FSDT.app import A, B, D, S, S1, db, Ec, Em
 
 #elastic foundation
-Kw = 0
+Kw = 100
 Kp = 0
 
 # Start the timer
