@@ -10,7 +10,7 @@ filepath = os.path.join(pwd, 'Mesh_models', 'msh.msh')
 
 gmsh.initialize()
 gmsh.option.setNumber("General.Terminal", 1)
-#gmsh.open('/content/FSDT_with_second_order_triangular_element/Mesh_models/msh.msh')
+#gmsh.open('/content/New_Triangle/Mesh_models/msh.msh')
 gmsh.open(filepath)
 
 #Nodes info

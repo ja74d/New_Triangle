@@ -35,7 +35,7 @@ S1 = 1
 
 Sigma = np.array([
     [S1, 0],
-    [0, 0]
+    [0, S1]
 ])
 
 def DNx(i):
