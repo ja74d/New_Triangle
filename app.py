@@ -31,7 +31,7 @@ Kp = 0
 start = time.perf_counter()
 
 #S1 = ((np.pi**2)*db)/(Lx**2)
-S1 = 1
+#S1 = 1
 
 Sigma = np.array([
     [S1, 0],

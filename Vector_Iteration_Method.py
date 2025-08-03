@@ -45,11 +45,11 @@ for i in range(15):
 rho = ( xk_[i-1].T @ yk[i-1] )/( xk_[i-1].T @ yk_[i-1] )
 
 #thermal buckling
-#print(rho*1e-3)
+print(rho*1e-3)
 
 #mechanical buckling
 #print(rho*1e-9)
-print( (rho *Lx**2)/(100*1e+9) )
+#print( (rho *Lx**2)/(100*1e+9) )
 
 #print(rho)
 #print(rho*((Lx**2)/(Em)))

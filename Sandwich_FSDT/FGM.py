@@ -3,7 +3,7 @@ from sympy import symbols, integrate
 
 #Geometrical Properties
 
-t1, t2, t3 = 2, 1, 2
+t1, t2, t3 = 1, 0, 1
 
 ###FGM
 

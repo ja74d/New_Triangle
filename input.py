@@ -3,7 +3,7 @@ from datetime import datetime
 date_time = datetime.now()
 
 #B.C.
-BCleft, BCright, BCtop, BCbottom = 'S', 'Sym', 'S', 'Sym'
+BCleft, BCright, BCtop, BCbottom = 'C', 'Sym', 'C', 'Sym'
 BChole = 'F'
 Jacob_cache = 0
 
